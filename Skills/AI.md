@@ -1,53 +1,53 @@
 ## Deep Learning Fundamentals
 
 - Basic Concepts
-  - Artificial Neural Networks (ANN): 🖐️ used
-  - Deep Neural Networks (DNN): 👂 heard
-  - Convolutional Neural Networks (CNN): 👂 heard
-  - Recurrent Neural Networks (RNN): 👂 heard
-  - Long Short-Term Memory (LSTM): 👂 heard
-  - Activation Functions: 👂 heard
-  - Backpropagation: 👂 heard
+  - Artificial Neural Networks (ANN): 🙋 explained
+  - Deep Neural Networks (DNN): 🙋 explained
+  - Convolutional Neural Networks (CNN): 🙋 explained
+  - Recurrent Neural Networks (RNN): 🙋 explained
+  - Long Short-Term Memory (LSTM): 🙋 explained
+  - Activation Functions: 🙋 explained
+  - Backpropagation: 🙋 explained
   - Gradient Descent: 🖐️ used
-  - Loss Functions: 👂 heard
-  - Overfitting & Underfitting: 👂 heard
-  - Regularization Techniques: 👂 heard
-  - Batch Normalization: 👂 heard
-  - Dropout: 👂 heard
-  - Transfer Learning: 👂 heard
-  - Data Augmentation: 👂 heard
-  - Feature Extraction: 👂 heard
-  - Hyperparameter Tuning: 👂 heard
+  - Loss Functions: 🙋 explained
+  - Overfitting & Underfitting: 🙋 explained
+  - Regularization Techniques: 🖐️ used
+  - Batch Normalization: 🖐️ used
+  - Dropout: 🖐️ used
+  - Transfer Learning: 🖐️ used
+  - Data Augmentation: 🖐️ used
+  - Feature Extraction: 🖐️ used
+  - Hyperparameter Tuning: 🖐️ used
 
 - Advanced Techniques
-  - Generative Adversarial Networks (GAN): 👂 heard
-  - Autoencoders
-  - Reinforcement Learning
-  - Attention Mechanisms
-  - Transformer Models
-  - Neural Style Transfer
-  - Anomaly Detection
-  - Federated Learning
-  - Explainable AI (XAI)
-  - Edge AI
+  - Generative Adversarial Networks (GAN): 🖐️ used
+  - Autoencoders: 👂 heard
+  - Reinforcement Learning: 🖐️ used
+  - Attention Mechanisms: 🖐️ used
+  - Transformer Models: 🖐️ used
+  - Neural Style Transfer: 👂 heard
+  - Anomaly Detection: 🖐️ used
+  - Federated Learning: 👂 heard
+  - Explainable AI (XAI): 👂 heard
+  - Edge AI: 👂 heard
 
 - Deep Learning Frameworks
   - TensorFlow: 🖐️ used
-  - Keras: 👂 heard
-  - PyTorch: 👂 heard
-  - Caffe
-  - MXNet
-  - FastAI
-  - Theano
-  - JAX
+  - Keras: 🖐️ used
+  - PyTorch: 🖐️ used
+  - Caffe: 👂 heard
+  - MXNet: 👂 heard
+  - FastAI: 👂 heard
+  - Theano: 👂 heard
+  - JAX: 👂 heard
 
 - Computer Vision
-  - Image Classification
-  - Object Detection
-  - Image Segmentation
-  - Face Recognition
-  - Image super-resolution
-  - Video super-resolution
+  - Image Classification: 🖐️ used
+  - Object Detection: 🖐️ used
+  - Image Segmentation: 🎓 known
+  - Face Recognition: 🎓 known
+  - Image super-resolution: 🔬 researched
+  - Video super-resolution: 🔬 researched
 
 - Development Tools
   - Jupyter Notebook: 🖐️ used
