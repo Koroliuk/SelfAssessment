@@ -1,95 +1,89 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🙋 explained
-  - try..catch: 🙋 explained
-  - Non-blocking: 🙋 explained
-  - Async I/O: 🖐️ used
-  - Thread pool: 🙋 explained
-  - Pattern Reactor: 🙋 explained
-  - CAS operations: 🖐️ used
-  - epoll: 👂 heard
-  - kqueue: 👂 heard
-  - Completion ports: 🎓 known
-  - Event ports: 🎓 known
-  - libuv: 🎓 known
-  - Race conditions: 🙋 explained
-  - Dead locks: 🙋 explained
-  - Live locks: 🙋 explained
-  - Concurrent programming: 🖐️ used
-  - Parallel programming: 🖐️ used
-  - Actor Model: 👂 heard
-  - Thread: 🖐️ used
-  - Process: 🖐️ used
+  - Event loop
+  - `try..catch`
+  - Non-blocking
+  - Async I/O
+  - Thread pool
+  - Pattern Reactor
+  - CAS operations
+  - epoll
+  - kqueue
+  - Completion ports
+  - Event ports
+  - libuv
+  - Race conditions
+  - Dead locks
+  - Live locks
+  - Concurrent programming
+  - Parallel programming
+  - Actor Model
+  - Thread
+  - Process
 - Async contracts
-  - Callbacks: 🖐️ used
-  - Callback-last-error-first: 🖐️ used
-  - Thenable: 🖐️ used
-  - Promise: 🖐️ used
-  - Async/await: 🖐️ used
-  - Future: 🙋 explained
-  - Deferred: 🖐️ used
-  - Sync generator: 🖐️ used
-  - Async Generator: 🖐️ used
-  - Async Iterator: 🖐️ used
-  - Event: 🖐️ used
-  - Coroutine: 🖐️ used
-  - Goroutine: 🖐️ used
-  - Signal: 🖐️ used
-  - Stream: 🖐️ used
-  - Chain of responsibility: 🎓 known
-  - Middleware: 🖐️ used
-  - Locks: 🙋 explained
+  - Callbacks
+  - Callback-last-error-first
+  - Thenable
+  - Promise
+  - Async/await
+  - Future
+  - Deferred
+  - Sync generator
+  - Async Generator
+  - Async Iterator
+  - Event
+  - Coroutine
+  - Goroutine
+  - Signal
+  - Stream
+  - Chain of responsibility
+  - Middleware
+  - Locks
 - Async adapters and utils
-  - callbackify: 🖐️ used
-  - promisify: 🖐️ used
-  - asyncify: 🖐️ used
-  - callbacks compose: 🖐️ used
-  - async compose: 🖐️ used
+  - callbackify
+  - promisify
+  - asyncify
+  - Callbacks compose
+  - Async compose
 - Async abstractions interfaces
-  - EventEmitter: 🖐️ used
-  - Observable/Observer: 🙋 explained
-  - Readable: 🖐️ used
-  - Writable: 🖐️ used
-  - Transform: 🖐️ used
-  - Async Pool: 🖐️ used
-  - Async Queue: 🖐️ used
-  - Async Collector: 🖐️ used
-  - Semaphore: 🙋 explained
-  - Mutex: 🙋 explained
-  - Spin Lock: 🙋 explained
+  - EventEmitter
+  - Observable/Observer
+  - Readable
+  - Writable
+  - Transform
+  - Async Pool
+  - Async Queue
+  - Async Collector
+  - Semaphore
+  - Mutex
+  - Spin Lock
 - JavaScript & Node.js specific
-  - Timers: 🖐️ used
-  - setImmediate: 🖐️ used
-  - nextTick: 🖐️ used
-  - AbortController: 🎓 known
-  - AbortSignal: 🎓 known
-  - Promise unhandled rejection: 🎓 known
-  - Promise double resolve: 🎓 known
-  - child_process: 🖐️ used
-  - worker_threads: 🖐️ used
-  - Atomics: 🖐️ used
-  - High resolution clock: 🎓 known
-  - Callback hell: 🎓 known
-  - Promise hell: 🎓 known
-  - ref() and unref(): 🎓 known
-  - Error handling in async code: 🖐️ used
-  - Better stack traces with return await: 🖐️ used
-  - JSON: streaming serialization: 🖐️ used
-  - promisify: 🖐️ used
-  - callbackify: 🖐️ used
-  - AsyncLocalStorage: 🖐️ used
-  - AsyncResource: 🖐️ used
+  - Timers
+  - `setImmediate`
+  - `nextTick`
+  - AbortController
+  - AbortSignal
+  - Promise unhandled rejection
+  - Promise double resolve
+  - Atomics
+  - High resolution clock
+  - Callback hell
+  - Promise hell
+  - ref() and unref()
+  - Error handling in async code
+  - Better stack traces with return await
+  - JSON streaming serialization
+  - AsyncLocalStorage
+  - AsyncResource
 - Techniques
-  - async.js library: 🖐️ used
-  - RxJS library: 🖐️ used
-  - Async composition: 👂 heard
-  - Promise.all: 🖐️ used
-  - Promise.allSettled: 🖐️ used
-  - Promise.race: 🖐️ used
-  - Promise.any: 🖐️ used
-  - Web Locks API: 👂 heard
-  - IPC: 👂 heard
-  - Channel API: 👂 heard
-  - Revealing Constructor: 👂 heard
-  - Web Locks API: 👂 heard
+  - Async.js library
+  - RxJS library
+  - Promise.all
+  - Promise.allSettled
+  - Promise.race
+  - Promise.any
+  - Web Locks API
+  - IPC
+  - Channel API
+  - Revealing constructor
