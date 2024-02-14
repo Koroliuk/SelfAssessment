@@ -1,35 +1,35 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
-  - Stateful and stateless services
-  - Asynchronous and synchronous programming
-  - Task-based asynchronous pattern
-  - Garbage collection in .NET
-  - .NET runtime versions and support
+  - Strengths and weaknesses of .NET: 🎓 known
+  - Stateful and stateless services: 🎓 known
+  - Asynchronous and synchronous programming: 👂 heard
+  - Task-based asynchronous pattern: 👂 heard
+  - Garbage collection in .NET: 👂 heard
+  - .NET runtime versions and support: 👂 heard
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
 - Modularity and Dependencies
-  - .NET assemblies
-  - NuGet package management
-  - Dependency management in .NET
-  - Dependency Injection in .NET
-  - Inversion of Control (IoC)
-  - IoC containers in .NET
-  - Middleware and pipeline configuration
-  - Modular applications
+  - .NET assemblies: 👂 heard
+  - NuGet package management: 🖐️ used
+  - Dependency management in .NET: 👂 heard
+  - Dependency Injection in .NET: 🖐️ used
+  - Inversion of Control (IoC): 🖐️ used
+  - IoC containers in .NET: 🖐️ used
+  - Middleware and pipeline configuration: 👂 heard
+  - Modular applications: 🖐️ used
 - Environment and Tools
-  - Command line interface (CLI) tools
-  - .NET CLI
+  - Command line interface (CLI) tools: 🖐️ used
+  - .NET CLI: 🖐️ used
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
   - IIS and Kestrel web server
-  - Environment variables and configuration
-  - File system I/O operations
+  - Environment variables and configuration: 🎓 known
+  - File system I/O operations: 🖐️ used
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ
+  - LINQ: 🖐️ used
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
@@ -37,31 +37,31 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
+  - HTTP/HTTPS support: 🖐️ used
   - WebSockets for real-time communication
   - TCP/UDP networking
   - SSL/TLS for secure connections
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
   - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML)
+  - Serialization and deserialization (JSON, XML): 🖐️ used
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit
+  - Unit testing with frameworks like xUnit, NUnit: 🖐️ used
   - Integration testing
-  - Logging and tracing
+  - Logging and tracing: 🖐️ used
   - Application monitoring and telemetry
-  - Debugging tools and strategies
+  - Debugging tools and strategies: 🖐️ used
   - Performance profiling and analysis
 - Data Access and ORM
-  - Entity Framework Core
+  - Entity Framework Core: 🖐️ used
   - Dapper
   - ADO.NET for database access
   - Data modeling and migration
-  - Repository and Unit of Work patterns
-  - CRUD operations
+  - Repository and Unit of Work patterns: 🖐️ used
+  - CRUD operations: 🖐️ used
 - Error Handling and Debugging
-  - Exception handling in .NET
-  - Custom error classes
+  - Exception handling in .NET: 🖐️ used
+  - Custom error classes: 👂 heard
   - Debugging and diagnostic tools
   - Profiling and performance analysis
   - Memory leak detection
@@ -72,18 +72,18 @@
   - .NET for `WebAssembly`
   - Custom middleware development
 - Cloud and Microservices
-  - Integration with cloud platforms (Azure, AWS)
-  - Microservices architecture
-  - Containerization with Docker
-  - Kubernetes for orchestration
-  - Serverless computing
+  - Integration with cloud platforms (Azure, AWS): 🖐️ used
+  - Microservices architecture: 🖐️ used
+  - Containerization with Docker: 🖐️ used
+  - Kubernetes for orchestration: 🖐️ used
+  - Serverless computing: 🖐️ used
 - C# Development
-  - C# syntax and language fundamentals
-  - Advanced C# features (LINQ, async/await, delegates, events)
+  - C# syntax and language fundamentals: 🖐️ used
+  - Advanced C# features (LINQ, async/await, delegates, events): 👂 heard
   - Reflection and dynamic programming
-  - Data types and collections
-  - Generics and extension methods
-  - Attributes and annotations
+  - Data types and collections: 🖐️ used
+  - Generics and extension methods: 🖐️ used
+  - Attributes and annotations: 🖐️ used
   - Interoperability with other .NET languages
 - `F#` Development
   - `F#` syntax and language fundamentals
@@ -117,12 +117,12 @@
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development
-  - .NET MAUI / Xamarin
+  - .NET MAUI / Xamarin: 👂 heard
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity: 🖐️ used
 - Web development
-  - ASP.NET Core
+  - ASP.NET Core: 🖐️ used
   - Blazor
-  - Razor Syntax
-  - RESTful API development
+  - Razor Syntax: 🖐️ used
+  - RESTful API development: 🖐️ used

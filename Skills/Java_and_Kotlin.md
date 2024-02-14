@@ -8,7 +8,6 @@
   - JVM Heap and Stack: 🙋 explained
   - JVM Monitoring and Profiling: 🎓 known
   - Class Loading Mechanism: 🎓 known
-
 - Advanced Concurrency
   - Java Memory Model: 🙋 explained
   - Synchronization Mechanisms: 🙋 explained
@@ -17,13 +16,11 @@
   - Thread Pools and Executor Framework: 🙋 explained
   - CompletableFuture and Reactive Streams: 🙋 explained
   - Virtual Threads (Project Loom): 🖐️ used
-
 - Java Language Enhancements
   - Lambda Expressions and Functional Interfaces: 🙋 explained
   - Java Modules (Project Jigsaw): 👂 heard
   - Annotations Processing: 🖐️ used
   - Varargs and Generics Wildcards: 🙋 explained
-
 ## Kotlin
 - Kotlin Language Features
   - Inline Functions and Reified Type Parameters: 🙋 explained
@@ -32,12 +29,10 @@
   - Delegated Properties: 🙋 explained
   - Destructuring Declarations: 🙋 explained
   - Type Aliases: 🙋 explained
-
 - Functional Programming in Kotlin
   - Immutability and Pure Functions: 🙋 explained
   - Sequence and Collection Operations: 🖐️ used
   - Lazy Evaluation: 🖐️ used
-
 - Coroutines and Asynchronous Programming
   - Coroutine Builders and Contexts: 🖐️ used
   - Structured Concurrency: 🖐️ used
