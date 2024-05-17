@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-646/730/730-009933?style=flat-square)](https://github.com/Koroliuk/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-647&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Koroliuk/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-646/730/730-009933?style=flat-square)](https://github.com/Koroliuk/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-647&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/Koroliuk/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/Koroliuk/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-646/730/730-009933?style=flat-square"></a>
+<a href="https://github.com/Koroliuk/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-647&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -24,13 +24,13 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `23` | `28` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `20` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `5` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Operation systems | `9` | `13` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `9` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `8` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Language | `57` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `19` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `7` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `8` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `14` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `5` | `6` |
 | [Async](/Skills/Async.md) | | |
@@ -75,7 +75,7 @@ Total: you have `72` of `72` skills, `0` to be upgraded, and `58` above needed
 | Async IIFE | 👂 heard | ⟶  | 🖐️ used |
 | V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `95` of `97` skills, `2` to be upgraded, and `73` above needed
+Total: you have `96` of `98` skills, `2` to be upgraded, and `74` above needed
 
 ## [Async](/Skills/Async.md)
 
