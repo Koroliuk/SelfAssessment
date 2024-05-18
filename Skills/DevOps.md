@@ -3,6 +3,7 @@
 - Continuous Integration and Continuous Deployment (CI/CD)
   - gitlab: 🖐️ used
   - github: 🖐️ used
+  - Jenkins: 🖐️ used
 - Virtualization and Containerization
   - Virtualization Technologies
   - Virtual Machines: 🙋 explained
@@ -17,9 +18,19 @@
   - Helm for Kubernetes Package Management: 👂 heard
   - Configuration Management and Automation: 🖐️ used
   - Ansible: 🖐️ used
+  - Vagrant: 🖐️ used
+  - Puppet: 👂 heard
+  - Chef: 👂 heard
 - Monitoring and Observability
   - Application Monitoring: 🖐️ used
   - Application Performance Monitoring (APM) Tools (e.g., New Relic, Datadog): 🖐️ used
+  - Prometheus: 🖐️ used
+  - Grafana: 🖐️ used
+  - Elasticsearch: 🖐️ used
+  - Logstash: 👂 heard
+  - Kibana: 🖐️ used
+  - EFK Stack (Elasticsearch, Fluentd, Kibana): 🖐️ used
+  - Alertmanager: 👂 heard
 - Infrastructure Management
   - Cloud Infrastructure Management: 🖐️ used
   - Public Cloud Platforms (AWS, Azure, GCP): 🙋 explained
