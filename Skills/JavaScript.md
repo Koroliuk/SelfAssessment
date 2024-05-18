@@ -25,7 +25,7 @@
   - Chaining: 🙋 explained
   - Optional chaining: 🙋 explained
   - IIFE: 🙋 explained
-  - Async IIFE: 👂 heard
+  - Async IIFE: 🖐️ used
   - `global`: 🙋 explained
   - `globalThis`: 🙋 explained
   - `window`: 🙋 explained
@@ -114,7 +114,7 @@
   - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure
-  - V8: 🎓 known
+  - V8: 🖐️ used
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used

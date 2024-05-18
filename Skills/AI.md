@@ -18,6 +18,8 @@
   - Data Augmentation: 🖐️ used
   - Feature Extraction: 🖐️ used
   - Hyperparameter Tuning: 🖐️ used
+  - Cross-Validation: 🖐️ used
+  - Model Evaluation Metrics: 🖐️ used
 - Advanced Techniques
   - Generative Adversarial Networks (GAN): 🖐️ used
   - Autoencoders: 👂 heard
@@ -29,6 +31,8 @@
   - Federated Learning: 👂 heard
   - Explainable AI (XAI): 👂 heard
   - Edge AI: 👂 heard
+  - Self-Supervised Learning: 👂 heard
+  - Few-Shot Learning: 👂 heard
 - Deep Learning Frameworks
   - TensorFlow: 🖐️ used
   - Keras: 🖐️ used
@@ -38,6 +42,7 @@
   - FastAI: 👂 heard
   - Theano: 👂 heard
   - JAX: 👂 heard
+  - ONNX: 👂 heard
 - Computer Vision
   - Image Classification: 🖐️ used
   - Object Detection: 🖐️ used
@@ -45,6 +50,9 @@
   - Face Recognition: 🎓 known
   - Image super-resolution: 🔬 researched
   - Video super-resolution: 🔬 researched
+  - Pose Estimation: 👂 heard
+  - Semantic Segmentation: 👂 heard
+  - Instance Segmentation: 👂 heard
 - Development Tools
   - Jupyter Notebook: 🖐️ used
   - Google Colab: 🖐️ used
@@ -53,3 +61,6 @@
   - Plotly: 🖐️ used
   - Pandas: 🖐️ used
   - NumPy: 🖐️ used
+  - Seaborn: 🖐️ used
+  - TensorBoard: 🖐️ used
+  - Scikit-learn: 🖐️ used

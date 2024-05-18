@@ -37,7 +37,7 @@
   - Goroutine: 🖐️ used
   - Signal: 🖐️ used
   - Stream: 🖐️ used
-  - Chain of responsibility: 🎓 known
+  - Chain of responsibility: 🖐️ used
   - Middleware: 🖐️ used
   - Locks: 🙋 explained
 - Async adapters and utils
@@ -62,15 +62,15 @@
   - Timers: 🖐️ used
   - `setImmediate`: 🖐️ used
   - `nextTick`: 🖐️ used
-  - AbortController: 🎓 known
-  - AbortSignal: 🎓 known
-  - Promise unhandled rejection: 🎓 known
-  - Promise double resolve: 🎓 known
+  - AbortController: 🖐️ used
+  - AbortSignal: 🖐️ used
+  - Promise unhandled rejection: 🙋 explained
+  - Promise double resolve: 🙋 explained
   - Atomics: 🖐️ used
   - High resolution clock: 🎓 known
-  - Callback hell: 🎓 known
-  - Promise hell: 🎓 known
-  - ref() and unref(): 🎓 known
+  - Callback hell: 🙋 explained
+  - Promise hell: 🙋 explained
+  - ref() and unref(): 🖐️ used
   - Error handling in async code: 🖐️ used
   - Better stack traces with return await: 🖐️ used
   - JSON streaming serialization: 🖐️ used
@@ -83,7 +83,7 @@
   - Promise.allSettled: 🖐️ used
   - Promise.race: 🖐️ used
   - Promise.any: 🖐️ used
-  - Web Locks API: 👂 heard
-  - IPC: 👂 heard
-  - Channel API: 👂 heard
-  - Revealing constructor: 👂 heard
+  - Web Locks API: 🎓 known
+  - IPC: 🎓 known
+  - Channel API: 🎓 known
+  - Revealing constructor: 🖐️ used

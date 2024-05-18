@@ -1,0 +1,87 @@
+## AWS Skills
+
+- Core Concepts
+  - Regions: 🙋 explained
+  - Availability Zones: 🙋 explained
+  - Edge Locations: 🎓 known
+  - Data Centers: 🎓 known
+  - AWS Management Console: 🙋 explained
+  - AWS CLI (Command Line Interface): 🙋 explained
+  - AWS SDKs: 🖐️ used
+  - IAM (Identity and Access Management): 🙋 explained
+  - Resource Tagging: 🖐️ used
+  - VPC (Virtual Private Cloud): 🙋 explained
+- AWS Compute Services 
+  - EC2: 🖐️ used
+  - Lambda: 🙋 explained
+  - Elastic Beanstalk: 🎓 known
+  - ECS: 🖐️ used
+  - EKS: 🎓 known
+  - Fargate: 🖐️ used
+  - Batch: 🎓 known
+- AWS Storage Services 
+  - S3: 🖐️ used
+  - EBS: 🎓 known
+  - EFS: 🎓 known
+  - Glacier: 🎓 known
+  - FSx: 🎓 known
+- AWS Databases:
+  - RDS: 🖐️ used
+  - DynamoDB: 🖐️ used
+  - Aurora: 🖐️ used
+  - Redshift: 🎓 known
+  - ElastiCache: 🎓 known
+  - DocumentDB: 🖐️ used
+  - Neptune: 🎓 known
+  - QLDB (Quantum Ledger Database): 🎓 known
+  - Timestream: 🎓 known
+- AWS Networking:
+  - VPC: 🖐️ used
+  - Route 53: 🖐️ used
+  - API Gateway: 🖐️ used
+  - CloudFront: 🖐️ used
+  - Direct Connect: 🎓 known
+  - Global Accelerator: 🎓 known
+  - Elastic Load Balancing (ELB): 🙋 explained
+- Security, Identity, & Compliance
+  - KMS (Key Management Service): 🙋 explained
+  - CloudHSM: 👂 heard
+  - Cognito: 🎓 known
+  - GuardDuty: 👂 heard
+  - Inspector: 👂 heard
+  - Macie: 👂 heard
+  - AWS Shield: 🖐️ used
+  - AWS WAF: 🖐️ used
+  - Artifact: 👂 heard
+- Monitoring & Management
+  - CloudWatch: 🙋 explained
+  - CloudTrail: 🙋 explained
+  - Config: 🖐️ used
+  - Systems Manager: 👂 heard
+  - Trusted Advisor: 👂 heard
+  - AWS Organizations: 👂 heard
+  - Service Catalog: 👂 heard
+- Analytics
+  - Athena: 🖐️ used
+  - EMR (Elastic MapReduce): 👂 heard
+  - Kinesis: 🖐️ used
+  - QuickSight: 👂 heard
+  - Data Pipeline: 👂 heard
+  - Glue: 🖐️ used
+- Developer Tools
+  - CodeCommit: 🖐️ used
+  - CodeBuild: 🖐️ used
+  - CodeDeploy: 🖐️ used
+  - CodePipeline: 🖐️ used
+  - Cloud9: 👂 heard
+  - X-Ray: 🎓 known
+  - CloudFormation: 🖐️ used
+  - AWS SAM: 🖐️ used
+- Application Integration
+  - Step Functions: 🖐️ used
+  - SWF (Simple Workflow Service): 👂 heard
+  - AppSync: 👂 heard
+  - MQ: 🎓 known
+  - SNS (Simple Notification Service): 🙋 explained
+  - SQS (Simple Queue Service): 🙋 explained
+  - EventBridge: 🙋 explained

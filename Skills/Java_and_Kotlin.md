@@ -8,6 +8,9 @@
   - JVM Heap and Stack: 🙋 explained
   - JVM Monitoring and Profiling: 🎓 known
   - Class Loading Mechanism: 🎓 known
+  - Escape Analysis: 🎓 known
+  - Ahead-of-Time (AOT) Compilation: 🎓 known
+  - Metaspace: 👂 heard
 - Advanced Concurrency
   - Java Memory Model: 🙋 explained
   - Synchronization Mechanisms: 🙋 explained
@@ -16,11 +19,31 @@
   - Thread Pools and Executor Framework: 🙋 explained
   - CompletableFuture and Reactive Streams: 🙋 explained
   - Virtual Threads (Project Loom): 🖐️ used
+  - ForkJoinPool: 🖐️ used
+  - StampedLock: 🖐️ used
 - Java Language Enhancements
   - Lambda Expressions and Functional Interfaces: 🙋 explained
   - Java Modules (Project Jigsaw): 👂 heard
   - Annotations Processing: 🖐️ used
   - Varargs and Generics Wildcards: 🙋 explained
+  - Records: 🖐️ used
+  - Pattern Matching: 🖐️ used
+  - Text Blocks: 🙋 explained
+  - Sealed Classes: 🙋 explained
+  - Switch Expressions: 🙋 explained
+  - Local Variable Type Inference (var): 🙋 explained
+- Java Frameworks and Libraries (new topic)
+  - Spring Framework: 🙋 explained
+  - Micronaut: 🙋 explained
+  - Quarkus: 👂 heard
+  - Spark: 👂 heard
+  - Hibernate: 🖐️ used
+  - JUnit: 🙋 explained
+  - Maven: 🙋 explained
+  - Gradle: 🙋 explained
+  - Apache Kafka: 👂 heard
+  - Log4j: 🖐️ used
+  - Micrometer: 🖐️ used
 ## Kotlin
 - Kotlin Language Features
   - Inline Functions and Reified Type Parameters: 🙋 explained
@@ -29,13 +52,28 @@
   - Delegated Properties: 🙋 explained
   - Destructuring Declarations: 🙋 explained
   - Type Aliases: 🙋 explained
+  - Smart Casts: 🙋 explained
+  - Data Classes: 🙋 explained
+  - Extension Functions: 🙋 explained
+  - Null Safety: 🙋 explained
+  - Sealed Classes (Kotlin): 🙋 explained
 - Functional Programming in Kotlin
   - Immutability and Pure Functions: 🙋 explained
   - Sequence and Collection Operations: 🖐️ used
   - Lazy Evaluation: 🖐️ used
+  - Higher-Order Functions: 🙋 explained
+  - Function Literals with Receiver: 👂 heard
 - Coroutines and Asynchronous Programming
   - Coroutine Builders and Contexts: 🖐️ used
   - Structured Concurrency: 🖐️ used
   - Flow API and Reactive Streams: 🖐️ used
   - Suspending Functions: 🖐️ used
   - Coroutine Exception Handling: 🖐️ used
+  - Channel API: 🖐️ used
+  - Select Expression: 👂 heard
+- Kotlin Frameworks and Libraries (new topic)
+  - Ktor: 👂 heard
+  - Koin: 👂 heard
+  - Exposed: 👂 heard
+  - Spring Boot with Kotlin: 🖐️ used
+  - MockK: 🙋 explained
