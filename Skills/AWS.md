@@ -11,7 +11,7 @@
   - IAM (Identity and Access Management): 🙋 explained
   - Resource Tagging: 🖐️ used
   - VPC (Virtual Private Cloud): 🙋 explained
-- AWS Compute Services 
+- AWS Compute Services
   - EC2: 🖐️ used
   - Lambda: 🙋 explained
   - Elastic Beanstalk: 🎓 known
@@ -19,7 +19,7 @@
   - EKS: 🎓 known
   - Fargate: 🖐️ used
   - Batch: 🎓 known
-- AWS Storage Services 
+- AWS Storage Services
   - S3: 🖐️ used
   - EBS: 🎓 known
   - EFS: 🎓 known

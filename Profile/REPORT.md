@@ -68,47 +68,30 @@
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `72` of `72` skills, `0` to be upgraded, and `58` above needed
+Total: you have `72` of `72` skills, `0` to be upgraded, and `59` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Async IIFE | 👂 heard | ⟶  | 🖐️ used |
-| V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `96` of `98` skills, `2` to be upgraded, and `74` above needed
+Total: you have `98` of `98` skills, `0` to be upgraded, and `74` above needed
 
 ## [Async](/Skills/Async.md)
 
 
 | For Node.js applied programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| AbortController | 🎓 known | ⟶  | 🖐️ used |
-| Revealing constructor | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `48` of `50` skills, `2` to be upgraded, and `24` above needed
+Total: you have `50` of `50` skills, `0` to be upgraded, and `29` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| AbortController | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `36` of `37` skills, `1` to be upgraded, and `19` above needed
+Total: you have `37` of `37` skills, `0` to be upgraded, and `23` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Chain of responsibility | 🎓 known | ⟶  | 🖐️ used |
-| AbortController | 🎓 known | ⟶  | 🖐️ used |
-| AbortSignal | 🎓 known | ⟶  | 🖐️ used |
-| Promise unhandled rejection | 🎓 known | ⟶  | 🖐️ used |
-| Promise double resolve | 🎓 known | ⟶  | 🖐️ used |
-| Callback hell | 🎓 known | ⟶  | 🖐️ used |
-| Promise hell | 🎓 known | ⟶  | 🖐️ used |
-| ref() and unref() | 🎓 known | ⟶  | 🖐️ used |
-| Web Locks API | 👂 heard | ⟶  | 🎓 known |
-| IPC | 👂 heard | ⟶  | 🎓 known |
-| Channel API | 👂 heard | ⟶  | 🎓 known |
-| Revealing constructor | 👂 heard | ⟶  | 🖐️ used |
 
-Total: you have `63` of `75` skills, `12` to be upgraded, and `24` above needed
+Total: you have `75` of `75` skills, `0` to be upgraded, and `28` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
